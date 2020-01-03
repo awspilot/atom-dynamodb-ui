@@ -1,0 +1,18 @@
+{
+	"menu": [
+		{
+			"label": "Packages",
+			"submenu": [
+				{
+					"label": "DynamoDB",
+					"submenu": [
+						{
+							"label": "Open",
+							"command": "dynamodb-ui:new"
+						}
+					]
+				}
+			]
+		}
+	]
+}
