@@ -1,4 +1,6 @@
-# dynamodb-ui &middot; [![Package version](https://img.shields.io/apm/v/dynamodb-ui.svg)](https://atom.io/packages/dynamodb-ui)
+# dynamodb-ui &middot;
+[![Package version](https://img.shields.io/apm/v/dynamodb-ui.svg)](https://atom.io/packages/dynamodb-ui)
+[![apm](https://img.shields.io/apm/l/dynamodb-ui.svg?style=flat-square)]()
 
 Manage DynamoDB tables from your Atom editor.  
 
