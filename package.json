@@ -8,7 +8,7 @@
 		}
 	},
 	"main": "./lib/main",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"description": "DynamoDB User Interface",
 	"keywords": [],
 	"repository": "https://github.com/awspilot/atom-dynamodb-ui",
