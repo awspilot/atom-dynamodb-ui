@@ -8,7 +8,7 @@
 		}
 	},
 	"main": "./lib/main",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "DynamoDB User Interface",
 	"keywords": [],
 	"repository": "https://github.com/awspilot/atom-dynamodb-ui",
@@ -16,10 +16,8 @@
 	"engines": {
 		"atom": ">=1.0.0 <2.0.0"
 	},
-	"scripts": {
-	},
-	"devDependencies": {
-	},
+	"scripts": {},
+	"devDependencies": {},
 	"dependencies": {
 		"@awspilot/ractive-dynamodb-ui": "1.0.3-beta.7",
 		"aws-sdk": "^2.596.0",
