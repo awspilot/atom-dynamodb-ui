@@ -88,6 +88,6 @@
 
 		@awspilot-tabs-tab-active-color: #55002d;
 
-		@import (multiple,reference) "theme";
+		@import (multiple,reference) "theme.noless";
 	}
 }

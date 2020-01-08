@@ -90,6 +90,6 @@
 
 		@awspilot-tabs-tab-active-color: @text-color-highlight;
 
-		@import (multiple,reference) "theme";
+		@import (multiple,reference) "theme.noless";
 	}
 }
