@@ -1,0 +1,10 @@
+.ractive-dynamodb-ui.theme-atom {
+	& {
+		@awspilot-background-color:  @tab-background-color-active;
+		@awspilot-color: @text-color;
+
+		@awspilot-miniheader-title-background: @tab-bar-background-color;
+		@awspilot-miniheader-title-color: @text-color;
+		@import (multiple,reference) "theme.noless";
+	}
+}
