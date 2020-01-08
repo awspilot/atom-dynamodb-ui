@@ -5,6 +5,9 @@
 
 		@awspilot-miniheader-title-background: @tab-bar-background-color;
 		@awspilot-miniheader-title-color: @text-color;
-		@import (multiple,reference) "theme.noless";
+
+		@awspilot-window-background: @tab-background-color-active;
+
+		@import (multiple,reference) "theme";
 	}
 }
