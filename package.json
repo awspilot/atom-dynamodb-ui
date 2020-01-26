@@ -8,7 +8,7 @@
 		}
 	},
 	"main": "./lib/main",
-	"version": "0.4.1",
+	"version": "0.5.1",
 	"description": "DynamoDB User Interface",
 	"keywords": [],
 	"repository": "git@github.com:awspilot/atom-dynamodb-ui.git",
@@ -17,9 +17,7 @@
 		"atom": ">=1.0.0 <2.0.0"
 	},
 	"scripts": {},
-	"devDependencies": {
-
-	},
+	"devDependencies": {},
 	"dependencies": {
 		"async": "^3.1.0",
 		"ractive": "^1.3.8",
