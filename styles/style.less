@@ -1,10 +1,13 @@
 
-@import "common.noless";
-@import "theme-atom.noless";
-@import "theme-windows.noless";
-@import "ui-variables";
+/* other themes */
+@import (less) "../node_modules/@awspilot/ractive-dynamodb-ui/dist/ractive-dynamodb-ui.min.css";
 
 
-@import "window";
-
+/* atom theme */
+@path-to-ractive-window-npm: '../../../../@databank/ractive-window';
 @import "old.noless";
+@import "ui-variables";
+@import ( less ) "../node_modules/@awspilot/ractive-dynamodb-ui/dist/less/theme-atom";
+
+
+/*@import "window";*/
