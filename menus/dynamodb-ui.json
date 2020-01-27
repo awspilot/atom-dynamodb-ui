@@ -9,6 +9,10 @@
 						{
 							"label": "Open",
 							"command": "dynamodb-ui:new"
+						},
+						{
+							"label": "Settings",
+							"command": "dynamodb-ui:settings"
 						}
 					]
 				}
