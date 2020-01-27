@@ -10,4 +10,17 @@
 @import ( less ) "../node_modules/@awspilot/ractive-dynamodb-ui/dist/less/theme-atom";
 
 
-/*@import "window";*/
+.atom-dynamodb-ui {
+	position: absolute; top: 0px;left: 0px;right: 0px;bottom: 0px;
+}
+.atom-dynamodb-ui > .toolbar {position: absolute; top: 0px;right: 5px;height: 30px;width: 50px;line-height: 30px;}
+
+
+.atom-dynamodb-ui.theme-atom    {background-color: @tab-background-color-active;}
+.atom-dynamodb-ui.theme-atom > .toolbar > a { color: @text-color}
+
+.atom-dynamodb-ui.theme-aws     {background-color: #fff;}
+.atom-dynamodb-ui.theme-aws > .toolbar > a { color: #55002d}
+
+.atom-dynamodb-ui.theme-windows {background-color: #54a9a9;}
+.atom-dynamodb-ui.theme-windows > .toolbar > a { color: #55002d}
