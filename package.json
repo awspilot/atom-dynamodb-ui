@@ -8,7 +8,7 @@
 		}
 	},
 	"main": "./lib/main",
-	"version": "0.6.0",
+	"version": "0.6.1",
 	"description": "DynamoDB User Interface",
 	"keywords": [],
 	"repository": "git@github.com:awspilot/atom-dynamodb-ui.git",
@@ -25,6 +25,5 @@
 		"@awspilot/ractive-dynamodb-json-editor": "^1.1.1",
 		"@awspilot/ractive-dynamodb-ui": "^1.7.0",
 		"@databank/ractive-window": "^0.2.2"
-
 	}
 }
